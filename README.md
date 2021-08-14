@@ -10,9 +10,10 @@ I am TEJESWAR RAMACHANDRAN 🤠
 - Computer Vision
 
 🎓 I’m well versed in ...
+- C++ & Python Programming
+- Development boards like Arduino, STM32, ESP32 & PIC
+- Hardware Programming languages - Embedded C & Assembly Language
 - PCB Design 
-- Development boards like Arduino, STM32 & ESP32
-- 
 
 🌱 I’m currently learning ...
 - Verilog 
