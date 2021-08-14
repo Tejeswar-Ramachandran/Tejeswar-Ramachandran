@@ -4,10 +4,15 @@ I am TEJESWAR RAMACHANDRAN 🤠
 
 (@Tejeswar-Ramachandran)
 
-👀 I’m interested in 
+👀 I’m interested in ...
 - Automobiles and Electric Vehicles
 - Internet of Things and Embedded Systems
 - Computer Vision
+
+🎓 I’m well versed in ...
+- PCB Design 
+- Development boards like Arduino, STM32 & ESP32
+- 
 
 🌱 I’m currently learning ...
 - Verilog 
