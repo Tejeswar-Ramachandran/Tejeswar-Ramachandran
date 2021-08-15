@@ -1,6 +1,6 @@
-HI THERE!!
+## HI THERE!!
 
-I am TEJESWAR RAMACHANDRAN 🤠
+## I am TEJESWAR RAMACHANDRAN 🤠
 
 (@Tejeswar-Ramachandran)
 
@@ -21,7 +21,7 @@ I am TEJESWAR RAMACHANDRAN 🤠
 - Federated Learning - Object Detection for self driving cars
 
 
-🤝 I’m looking to collaborate on Projects involving ...
+🤝 I’m looking to collaborate on projects involving ...
 - Embedded System Design with MCUs
 - Integration of AI & MCUs
 - Electric Vehicles
