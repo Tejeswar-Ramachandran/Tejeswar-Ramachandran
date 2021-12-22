@@ -6,8 +6,9 @@
 
 👀 I’m interested in ...
 - Automobiles and Electric Vehicles
-- Internet of Things and Embedded Systems
+- Robotics and Embedded Systems
 - Computer Vision
+- Self Driving Cars & Autonomous Vehicles
 
 🎓 I’m well versed in ...
 - C++ & Python Programming
