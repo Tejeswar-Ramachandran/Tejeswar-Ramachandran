@@ -11,21 +11,21 @@
 
 🎓 I’m well versed in ...
 - C++ & Python Programming
-- Development boards like Arduino, STM32, ESP32 & PIC
+- Development boards - Arduino, STM32, ESP32 & PIC
 - Hardware Programming languages - Embedded C & Assembly Language
 - PCB Design 
 
-🌱 I’m currently learning ...
-- Verilog 
-- Micropython
+🌱 I’m currently working on ...
+- Battery Packs & Battery Management Systems
 - Federated Learning - Object Detection for self driving cars
+- Data Acquisition System using CAN Bus
 
 
 🤝 I’m looking to collaborate on projects involving ...
-- Embedded System Design with MCUs
-- Integration of AI & MCUs
-- Electric Vehicles
-- IoT based smart devices for automation of daily activities
+- Electric Vehicle Battery Pack & BMS Design
+- Robotics & Computer Vision
+- Self Driving Cars
+- IoT and Automation
 
 📫 How to reach me ...
 - Linked In: https://www.linkedin.com/in/tejeswar-ramachandran-819391191/
