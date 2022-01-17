@@ -5,10 +5,9 @@
 (@Tejeswar-Ramachandran)
 
 👀 I’m interested in ...
-- Automobiles and Electric Vehicles
-- Robotics and Embedded Systems
-- Computer Vision
-- Self Driving Cars & Autonomous Vehicles
+- Electric Vehicles
+- Robotics and Computer Vision
+- Autonomous ground & aerial Vehicles
 
 🎓 I’m well versed in ...
 - C++ & Python Programming
@@ -24,9 +23,9 @@
 
 🤝 I’m looking to collaborate on projects involving ...
 - Electric Vehicle Battery Pack & BMS Design
+- Electric Vehicle Motor Control System & Powertrain design
 - Robotics & Computer Vision
 - Self Driving Cars
-- IoT and Automation
 
 📫 How to reach me ...
 - Linked In: https://www.linkedin.com/in/tejeswar-ramachandran-819391191/
